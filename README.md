@@ -32,7 +32,7 @@
 
  <img src="https://gitee.com/whshi574/images/raw/master/images/20220315143354.png" style="zoom:60%;" />
 
-我自己完成的项目地址：
+我自己完成的项目地址：[yuyefeng3574/USTC_CG_CppPractices: record of this practices (github.com)](https://github.com/yuyefeng3574/USTC_CG_CppPractices)
 
 
 
@@ -40,11 +40,11 @@ C++中的new和delete http://c.biancheng.net/view/2199.html
 
 C++delete后不代表指针就为null，资源虽然是空的，但是建议还是delete后设置为nullptr [(19条消息) delete之后还需要置NULL吗？_yikunbai5708的博客-CSDN博客_delete和null](https://blog.csdn.net/yikunbai5708/article/details/102000944)
 
-关于null和nullptr的区别：在C++中尽量使用nullptr，区别跟二义性有关系，具体不太懂，不过语法方面不用深究
+关于null和nullptr的区别：在C++中尽量使用nullptr，区别跟二义性有关系，具体不太懂，语法方面先不用深究
 
 [(19条消息) C++中NULL和nullptr的区别_天涯明月刀的博客-CSDN博客_nullptr和null区别](https://blog.csdn.net/qq_18108083/article/details/84346655)
 
-理解并实现简单的C++动态分配内存：[CG_USTC/main.cpp at master · yuyefeng3574/CG_USTC (github.com)](https://github.com/yuyefeng3574/CG_USTC/blob/master/Homeworks/0_CppPratices/documents/1_BasicDArray/C2Cpp/src/Array0/main.cpp)
+理解并实现简单的C++动态分配内存：[USTC_CG/Array.cpp at master · yuyefeng3574/USTC_CG (github.com)](https://github.com/yuyefeng3574/USTC_CG/blob/master/Homeworks/0_CppPratices/documents/1_BasicDArray/C2Cpp/src/Array4/Array.cpp)
 
 学习使用函数中的引用，并实现数组的动态分配：
 
